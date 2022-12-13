@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvedor Front-end
+- 🔭 Desenvolvedor Front-end jr
 - 🌱 Estudando React, Node, Typescript
 - 😄 Pronouns: Caio Rafael
 
